@@ -63,6 +63,11 @@ class Mahasiswa {
     {
         this->fakultas = fakultas;
     }
+
+    // destructor
+    ~Mahasiswa(){
+        
+    }
 };
 
 
