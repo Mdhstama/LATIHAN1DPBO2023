@@ -20,8 +20,9 @@ int main()
     do
     {
         // pilihan menu
-        cout << "\nMenu" << '\n';
+        cout << "\n========== Menu ===========" << '\n';
         cout << "1)Add -- 2)Delete -- 3)Update" << '\n';
+        cout << "Masukkan pilihan menu : " << "";
         cin >> menu;
 
         if (menu == 1)
@@ -93,6 +94,10 @@ int main()
                 it -> setStudi(studi);
                 it -> setFakultas(fakultas);
             }
+        }
+        else
+        {
+            cout << "Menu tidak ada!" << '\n';
         }
 
     // print isi list
