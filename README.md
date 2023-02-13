@@ -14,3 +14,14 @@ Di dalam folder ini terdapat 4 sub-folder yang berisi 4 bahasa yang berbeda yait
     - Fakultas : data fakultas mahasiswa, tipe string
 
 2. File *main* berisi syntax untuk menampilkan hasil dan menjalankan program
+
+
+** DOKUMENTASI  (Python) **
+
+1. Add data
+![image](https://user-images.githubusercontent.com/99590350/218371078-e4ac6fb7-b3af-4402-8481-5be3338ffcd8.png)
+
+2. Delete data
+
+3. Update data
+
