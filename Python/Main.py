@@ -88,13 +88,14 @@ while True:
         print("Data Kosong atau tidak ada!!\n")
     else :
         # print data
+        print("\n============ Data Mahasiswa ============")
         i = 0
         for Mahasiswa in temp:
             print(str(i+1) + ") ", Mahasiswa.getName(), Mahasiswa.getNim(), Mahasiswa.getStudi(), Mahasiswa.getFakultas())
             i += 1
     
     # input dan cek pilihan menu
-    print("Ketik 't' untuk lanjut atau ketik apa saja untuk keluar menu!.")
+    print("\nKetik 't' untuk lanjut atau ketik apa saja untuk keluar menu!.")
     cekMenu = str(input())
     if cekMenu != 't':
         break
