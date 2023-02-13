@@ -19,9 +19,13 @@ Di dalam folder ini terdapat 4 sub-folder yang berisi 4 bahasa yang berbeda yait
 ** DOKUMENTASI  (Python) **
 
 1. Add data
+
 ![image](https://user-images.githubusercontent.com/99590350/218371078-e4ac6fb7-b3af-4402-8481-5be3338ffcd8.png)
 
-2. Delete data
+2. Delete data (hapus data sesuai no data)
 
-3. Update data
+![image](https://user-images.githubusercontent.com/99590350/218371328-92363f30-ccd7-4554-9e8c-937c5f55fcef.png)
 
+3. Update data (update data sesuai no data)
+
+![image](https://user-images.githubusercontent.com/99590350/218371466-e2899cd8-919c-4168-8339-0e6171f6c981.png)
